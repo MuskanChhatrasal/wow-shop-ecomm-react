@@ -17,7 +17,7 @@ const Home = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam
           libero nostrum veniam facere tempore nisi.
         </p>
-        <a href="#" className="btn">shop now</a>
+        <a className="btn">shop now</a>
       </div>
     </section>
 
@@ -26,20 +26,20 @@ const Home = () => {
     
      <h1 className="heading"><span>Categories</span></h1>
      <section className='category-section'>
-      <div class="card category-card category-card1">
-        <h3 class="card-title category-title">Italian </h3>
+      <div className="card category-card category-card1">
+        <h3 className="card-title category-title">Italian </h3>
       </div>
-      <div class="card category-card category-card2">
-        <h3 class="card-title category-title">Chineese </h3>
+      <div className="card category-card category-card2">
+        <h3 className="card-title category-title">Chineese </h3>
       </div>
-      <div class="card category-card category-card3">
-        <h3 class="card-title category-title">Spanish </h3>
+      <div className="card category-card category-card3">
+        <h3 className="card-title category-title">Spanish </h3>
       </div>
-      <div class="card category-card category-card4">
-        <h3 class="card-title category-title">North-Indian </h3>
+      <div className="card category-card category-card4">
+        <h3 className="card-title category-title">North-Indian </h3>
       </div>
-      <div class="card category-card category-card5">
-        <h3 class="card-title category-title">South-Indian </h3>
+      <div className="card category-card category-card5">
+        <h3 className="card-title category-title">South-Indian </h3>
       </div>
     </section>
 
