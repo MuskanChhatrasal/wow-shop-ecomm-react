@@ -1,13 +1,13 @@
 import React from 'react'
+import './wishlist.css'
 import Navbar from '../Navbar/navbar'
-import './products.css'
 
-const Products = () => {
+const Wishlist = () => {
   return (
     <div>
-      <Navbar />
+        <Navbar />
     </div>
   )
 }
 
-export default Products
+export default Wishlist
